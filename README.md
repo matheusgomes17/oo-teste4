@@ -21,6 +21,6 @@
 
 - Execute o comando no Git Hub: <b>php -S localhost:8090 -t public</b>
 
-- Para adicionar um cliente acesse a pasta <b>src/app/Fixtures/Cliente/Fixture.php</b>.
+- Para adicionar um cliente acesse a pasta <b>src/SON/Fixtures/Cliente/Fixture.php</b>.
 
 - O sistema faz conexão com o banco de dados. Usuario "<b>root</b>" e senha "<b>root</b>".
